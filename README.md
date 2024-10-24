@@ -7,7 +7,7 @@ This HR Analytics Dashboard is designed to help organizations understand key fac
 The main objective of this project is to provide data-driven insights into employee behavior, with a focus on reducing attrition, enhancing engagement, and optimizing workforce productivity. The dashboard aids HR professionals in making informed decisions to foster a better workplace environment.
 
 ## Data Set
-### DataSet Link: https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og
+### DataSet Link: https://www.kaggle.com/datasets/saadharoon27/hr-analytics-dataset
 
 ## Key Features
 - Attrition Analysis: Breakdown of employee turnover by department, job role, job satisfaction, and years of service.
