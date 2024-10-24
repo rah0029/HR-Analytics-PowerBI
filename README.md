@@ -1,7 +1,7 @@
 # HR Analytics Dashboard
 
 ## Overview
-The HR Analytics project is designed to help organizations understand key factors influencing employee attrition, engagement, and performance. Using Power BI, the project visualizes a wide range of HR metrics, offering actionable insights for improving employee retention, engagement, and productivity.
+The HR Analytics dashboard is designed to help organizations understand key factors influencing employee attrition, engagement, and performance. Using Power BI, the project visualizes a wide range of HR metrics, offering actionable insights for improving employee retention, engagement, and productivity.
 
 ## Objective
 The main objective of this project is to provide data-driven insights into employee behavior, with a focus on reducing attrition, enhancing engagement, and optimizing workforce productivity. The dashboard aids HR professionals in making informed decisions to foster a better workplace environment.
